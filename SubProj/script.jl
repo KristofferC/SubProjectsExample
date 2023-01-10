@@ -1,3 +1,4 @@
-using Example
+using Example, Plots
 
-Example. hello("mellon")
+Example.hello("mellon")
+plot(rand(2,2))
